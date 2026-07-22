@@ -1,0 +1,7 @@
+# 推論チェーン(各行=1ステップ)。3・5がハルシネーション
+1. The capital of france is paris.
+2. water | boils_at | 100 celsius
+3. oxygen | atomic_number | 16
+4. A triangle is a three-sided polygon.
+5. The capital of france is lyon.
+6. The sun is a star.

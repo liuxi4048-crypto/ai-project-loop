@@ -1,0 +1,6 @@
+# 既知事実(KB): subject | relation | object  もしくは  subject is object
+water | boils_at | 100 celsius
+the capital of france is paris
+oxygen | atomic_number | 8
+a triangle is a three-sided polygon
+the sun is a star
