@@ -16,3 +16,4 @@
 | 12 | 2026-07-23 | promptlint | 5 | 動作OK。プロンプトを指示数/文脈長/書式でリスク採点、clean 0.0/risky 76.2で分離。Prompt Design at Scale論文 |
 | 13 | 2026-07-23 | optmem | 5 | 動作OK。MoE学習メモリを方式別計算、論文の50.6GB状態を再現しtiered割当で33.7%削減。SkewAdam論文 |
 | 14 | 2026-07-23 | cot2qa | 5 | 動作OK。推論チェーンを依存グラフ化し中間QAへ変換、頻度フィルタで偽連結除去し真の依存5本を抽出。DAIS論文 |
+| 15 | 2026-07-23 | splitaudit | 5 | 動作OK。random/grouped/temporal分割の漏洩監査、randomの両軸100%漏洩vs各honest分割0%を可視化。不正検知汎化ベンチ論文 |
