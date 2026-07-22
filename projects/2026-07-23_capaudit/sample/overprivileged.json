@@ -1,0 +1,6 @@
+{
+  "_comment": "要約タスクなのに、脱出可能な能力まで広く付与されたエージェント",
+  "task_required": ["read_files", "http_get_allowlist"],
+  "granted": ["read_files", "http_get_allowlist", "write_files",
+              "http_any", "shell_exec", "env_secrets"]
+}

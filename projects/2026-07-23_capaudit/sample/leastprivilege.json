@@ -1,0 +1,5 @@
+{
+  "_comment": "同じ要約タスクを、必要な能力だけで実行するエージェント",
+  "task_required": ["read_files", "http_get_allowlist"],
+  "granted": ["read_files", "http_get_allowlist"]
+}
