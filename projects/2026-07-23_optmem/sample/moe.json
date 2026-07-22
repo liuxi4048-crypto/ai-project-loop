@@ -1,0 +1,15 @@
+{
+  "name": "moe-6.3B",
+  "weight_dtype_bytes": 2,
+  "grad_dtype_bytes": 2,
+  "groups": [
+    {"name": "backbone", "params": 1.9e9},
+    {"name": "experts",  "params": 4.25e9},
+    {"name": "router",   "params": 0.15e9}
+  ],
+  "tier": {
+    "backbone": "adamw_fp32",
+    "experts": "adamw_8bit",
+    "router": "adamw_fp32"
+  }
+}
