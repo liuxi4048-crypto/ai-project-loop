@@ -1,0 +1,8 @@
+{
+  "threshold": 0.5,
+  "sources": [
+    {"id": "s1", "text": "The Antikythera mechanism is an ancient Greek analog device used to predict astronomical positions and eclipses."},
+    {"id": "s2", "text": "It was discovered in 1901 in a shipwreck near the Greek island of Antikythera and contains at least thirty bronze gears."}
+  ],
+  "answer": "The Antikythera mechanism is an ancient Greek device to predict astronomical positions and eclipses. It was discovered in 1901 in a shipwreck and contains thirty bronze gears. The mechanism was personally built by the mathematician Archimedes."
+}
