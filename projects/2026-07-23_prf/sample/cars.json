@@ -1,0 +1,15 @@
+{
+  "query": "fast car",
+  "relevant": ["c1", "c2", "veh"],
+  "top_k": 2,
+  "expansion_terms": 2,
+  "recall_k": 3,
+  "documents": [
+    {"id": "c1",  "text": "a fast car has a powerful engine and quick acceleration"},
+    {"id": "c2",  "text": "a sports car is fast with a strong engine and rapid acceleration"},
+    {"id": "veh", "text": "the vehicle engine delivers acceleration and strong power on the road"},
+    {"id": "n1",  "text": "cooking recipes for a delicious chocolate cake and dessert"},
+    {"id": "n2",  "text": "gardening tips for growing tomatoes in a small backyard"},
+    {"id": "n3",  "text": "the history of ancient roman architecture and temples"}
+  ]
+}
