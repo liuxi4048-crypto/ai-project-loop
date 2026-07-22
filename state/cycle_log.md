@@ -19,3 +19,4 @@
 | 15 | 2026-07-23 | splitaudit | 5 | 動作OK。random/grouped/temporal分割の漏洩監査、randomの両軸100%漏洩vs各honest分割0%を可視化。不正検知汎化ベンチ論文 |
 | 16 | 2026-07-23 | ireval | 5 | 動作OK。BM25検索+recall@k/MRR/nDCG@k、複数関連クエリでrecall@1=0.857→recall@2=1.0の挙動を再現。AILQA論文 |
 | 17 | 2026-07-23 | divmeter | 4 | 動作OK。回答多様性メーター、最頻答シェア0.40→0.64(論文の41%→64%と一致)の崩壊を再現。構造化出力多様性論文 |
+| 18 | 2026-07-23 | codebench | 4 | 動作OK。実行型コードベンチ、正解3/3・バグ0/2でpass@1=50%を判定。SciCodePile(実行可能ベンチ)論文 |

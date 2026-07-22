@@ -1,0 +1,21 @@
+{
+  "problems": [
+    {
+      "id": "add",
+      "solution_file": "solutions/add.py",
+      "tests": [
+        {"input": "2 3", "expected": "5"},
+        {"input": "10 20", "expected": "30"},
+        {"input": "-4 4", "expected": "0"}
+      ]
+    },
+    {
+      "id": "max",
+      "solution_file": "solutions/maxbug.py",
+      "tests": [
+        {"input": "3 7 5", "expected": "7"},
+        {"input": "1 2", "expected": "2"}
+      ]
+    }
+  ]
+}
