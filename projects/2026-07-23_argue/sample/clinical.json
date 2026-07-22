@@ -1,0 +1,18 @@
+{
+  "arguments": [
+    {"id": "dxA", "type": "claim"},
+    {"id": "dxB", "type": "claim"},
+    {"id": "ev1", "type": "premise"},
+    {"id": "ev2", "type": "premise"},
+    {"id": "ev3", "type": "premise"}
+  ],
+  "attacks": [
+    ["dxA", "dxB"],
+    ["dxB", "dxA"],
+    ["ev3", "dxB"]
+  ],
+  "supports": [
+    ["ev1", "dxA"],
+    ["ev2", "dxB"]
+  ]
+}
