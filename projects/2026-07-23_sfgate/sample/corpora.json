@@ -1,0 +1,12 @@
+{
+  "threshold": 0.70,
+  "min_samples": 4,
+  "max_ci_halfwidth": 0.10,
+  "candidates": [
+    {"id": "src_A", "measurements": [0.82, 0.85, 0.80, 0.83, 0.81, 0.84]},
+    {"id": "src_B", "measurements": [0.50, 0.52, 0.48, 0.51, 0.49, 0.53]},
+    {"id": "src_C", "measurements": [0.60, 0.90, 0.50, 0.85, 0.55, 0.88]},
+    {"id": "src_D", "measurements": [0.90]},
+    {"id": "src_E", "measurements": [0.72, 0.73, 0.71, 0.72, 0.73, 0.72]}
+  ]
+}
