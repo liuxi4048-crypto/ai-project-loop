@@ -1,0 +1,14 @@
+# 植え込みサンプル(良性): 検出されてはいけない
+name: test
+on: [pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: install deps
+        run: pip install -r requirements.txt
+      - name: run tests
+        run: pytest -q
+      - name: notify (no secret leaves the runner)
+        run: echo "tests passed"
