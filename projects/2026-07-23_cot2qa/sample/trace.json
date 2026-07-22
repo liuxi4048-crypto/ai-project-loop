@@ -1,0 +1,11 @@
+{
+  "question": "A store had 200 apples. It sold 45 in the morning and twice as many in the afternoon. How many apples are left?",
+  "steps": [
+    "The store started with 200 apples.",
+    "In the morning it sold 45 apples.",
+    "In the afternoon it sold twice the morning amount, so 90 apples.",
+    "The total sold is 45 plus 90, which is 135 apples.",
+    "The apples remaining are 200 minus 135, which is 65."
+  ],
+  "answer": "65 apples are left."
+}
