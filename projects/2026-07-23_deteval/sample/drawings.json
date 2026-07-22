@@ -1,0 +1,27 @@
+{
+  "iou_threshold": 0.5,
+  "images": [
+    {
+      "gt": [
+        {"class": "wall", "box": [0, 0, 10, 2]},
+        {"class": "wall", "box": [0, 0, 2, 10]},
+        {"class": "door", "box": [4, 4, 6, 7]}
+      ],
+      "pred": [
+        {"class": "wall", "box": [0, 0, 10, 2], "score": 0.90},
+        {"class": "wall", "box": [0, 0, 2, 10], "score": 0.80},
+        {"class": "door", "box": [4, 4, 6, 7], "score": 0.95}
+      ]
+    },
+    {
+      "gt": [
+        {"class": "wall", "box": [0, 0, 8, 2]},
+        {"class": "door", "box": [3, 3, 5, 6]}
+      ],
+      "pred": [
+        {"class": "wall", "box": [0, 0, 8, 2], "score": 0.85},
+        {"class": "door", "box": [10, 10, 12, 13], "score": 0.70}
+      ]
+    }
+  ]
+}
