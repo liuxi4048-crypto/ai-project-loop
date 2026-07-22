@@ -1,0 +1,6 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect id="bg" x="0" y="0" width="100" height="100" fill="white"/>
+  <circle id="c1" cx="50" cy="50" r="20" fill="blue"/>
+  <rect id="r1" x="10" y="10" width="30" height="30" fill="green"/>
+  <text id="t1" x="5" y="95">hello</text>
+</svg>

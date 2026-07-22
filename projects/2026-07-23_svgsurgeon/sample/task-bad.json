@@ -1,0 +1,6 @@
+{
+  "original": "original.svg",
+  "edited": "edited-bad.svg",
+  "repairs": [{"id": "c1", "attr": "fill", "expected": "red"}],
+  "protected": ["bg", "r1", "t1"]
+}
