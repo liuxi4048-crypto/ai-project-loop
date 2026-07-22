@@ -1,0 +1,3 @@
+# Italian wordlist: surface<TAB>gloss (English metalanguage)
+burro	butter for cooking
+libro	a book for reading

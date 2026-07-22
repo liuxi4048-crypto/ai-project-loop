@@ -1,0 +1,5 @@
+# English wordlist: surface<TAB>gloss (English metalanguage)
+gift	a present given freely
+pie	a baked dessert with pastry crust
+actual	real existing in fact
+actor	a person who performs in plays

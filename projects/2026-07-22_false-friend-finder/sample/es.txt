@@ -1,0 +1,6 @@
+# Spanish wordlist: surface<TAB>gloss (English metalanguage)
+burro	a donkey animal
+pie	a foot body part
+actual	current present-day
+libro	a book for reading
+actor	a person who performs in plays

@@ -1,0 +1,3 @@
+# German wordlist: surface<TAB>gloss (English metalanguage)
+gift	poison a toxic substance
+aktuell	current up to date
