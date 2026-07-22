@@ -1,0 +1,258 @@
+year,sector,text
+2019,software,classic software product line 0
+2019,software,classic software product line 1
+2019,software,classic software product line 2
+2019,software,classic software product line 3
+2019,software,AI-powered software assistant with machine learning 0
+2019,finance,classic finance product line 0
+2019,finance,classic finance product line 1
+2019,finance,classic finance product line 2
+2019,finance,classic finance product line 3
+2019,healthcare,classic healthcare product line 0
+2019,healthcare,classic healthcare product line 1
+2019,healthcare,classic healthcare product line 2
+2019,healthcare,classic healthcare product line 3
+2019,retail,classic retail product line 0
+2019,retail,classic retail product line 1
+2019,retail,classic retail product line 2
+2019,retail,classic retail product line 3
+2019,manufacturing,classic manufacturing product line 0
+2019,manufacturing,classic manufacturing product line 1
+2019,manufacturing,classic manufacturing product line 2
+2019,manufacturing,classic manufacturing product line 3
+2019,media,classic media product line 0
+2019,media,classic media product line 1
+2019,media,classic media product line 2
+2019,media,classic media product line 3
+2020,software,classic software product line 0
+2020,software,classic software product line 1
+2020,software,classic software product line 2
+2020,software,classic software product line 3
+2020,software,AI-powered software assistant with machine learning 0
+2020,software,AI-powered software assistant with machine learning 1
+2020,finance,classic finance product line 0
+2020,finance,classic finance product line 1
+2020,finance,classic finance product line 2
+2020,finance,classic finance product line 3
+2020,finance,AI-powered finance assistant with machine learning 0
+2020,healthcare,classic healthcare product line 0
+2020,healthcare,classic healthcare product line 1
+2020,healthcare,classic healthcare product line 2
+2020,healthcare,classic healthcare product line 3
+2020,retail,classic retail product line 0
+2020,retail,classic retail product line 1
+2020,retail,classic retail product line 2
+2020,retail,classic retail product line 3
+2020,manufacturing,classic manufacturing product line 0
+2020,manufacturing,classic manufacturing product line 1
+2020,manufacturing,classic manufacturing product line 2
+2020,manufacturing,classic manufacturing product line 3
+2020,media,classic media product line 0
+2020,media,classic media product line 1
+2020,media,classic media product line 2
+2020,media,classic media product line 3
+2021,software,classic software product line 0
+2021,software,classic software product line 1
+2021,software,classic software product line 2
+2021,software,classic software product line 3
+2021,software,AI-powered software assistant with machine learning 0
+2021,software,AI-powered software assistant with machine learning 1
+2021,software,AI-powered software assistant with machine learning 2
+2021,finance,classic finance product line 0
+2021,finance,classic finance product line 1
+2021,finance,classic finance product line 2
+2021,finance,classic finance product line 3
+2021,finance,AI-powered finance assistant with machine learning 0
+2021,finance,AI-powered finance assistant with machine learning 1
+2021,healthcare,classic healthcare product line 0
+2021,healthcare,classic healthcare product line 1
+2021,healthcare,classic healthcare product line 2
+2021,healthcare,classic healthcare product line 3
+2021,healthcare,AI-powered healthcare assistant with machine learning 0
+2021,retail,classic retail product line 0
+2021,retail,classic retail product line 1
+2021,retail,classic retail product line 2
+2021,retail,classic retail product line 3
+2021,manufacturing,classic manufacturing product line 0
+2021,manufacturing,classic manufacturing product line 1
+2021,manufacturing,classic manufacturing product line 2
+2021,manufacturing,classic manufacturing product line 3
+2021,media,classic media product line 0
+2021,media,classic media product line 1
+2021,media,classic media product line 2
+2021,media,classic media product line 3
+2022,software,classic software product line 0
+2022,software,classic software product line 1
+2022,software,classic software product line 2
+2022,software,classic software product line 3
+2022,software,AI-powered software assistant with machine learning 0
+2022,software,AI-powered software assistant with machine learning 1
+2022,software,AI-powered software assistant with machine learning 2
+2022,software,AI-powered software assistant with machine learning 3
+2022,finance,classic finance product line 0
+2022,finance,classic finance product line 1
+2022,finance,classic finance product line 2
+2022,finance,classic finance product line 3
+2022,finance,AI-powered finance assistant with machine learning 0
+2022,finance,AI-powered finance assistant with machine learning 1
+2022,finance,AI-powered finance assistant with machine learning 2
+2022,healthcare,classic healthcare product line 0
+2022,healthcare,classic healthcare product line 1
+2022,healthcare,classic healthcare product line 2
+2022,healthcare,classic healthcare product line 3
+2022,healthcare,AI-powered healthcare assistant with machine learning 0
+2022,healthcare,AI-powered healthcare assistant with machine learning 1
+2022,retail,classic retail product line 0
+2022,retail,classic retail product line 1
+2022,retail,classic retail product line 2
+2022,retail,classic retail product line 3
+2022,retail,AI-powered retail assistant with machine learning 0
+2022,manufacturing,classic manufacturing product line 0
+2022,manufacturing,classic manufacturing product line 1
+2022,manufacturing,classic manufacturing product line 2
+2022,manufacturing,classic manufacturing product line 3
+2022,media,classic media product line 0
+2022,media,classic media product line 1
+2022,media,classic media product line 2
+2022,media,classic media product line 3
+2022,media,AI-powered media assistant with machine learning 0
+2023,software,classic software product line 0
+2023,software,classic software product line 1
+2023,software,classic software product line 2
+2023,software,classic software product line 3
+2023,software,AI-powered software assistant with machine learning 0
+2023,software,AI-powered software assistant with machine learning 1
+2023,software,AI-powered software assistant with machine learning 2
+2023,software,AI-powered software assistant with machine learning 3
+2023,software,AI-powered software assistant with machine learning 4
+2023,finance,classic finance product line 0
+2023,finance,classic finance product line 1
+2023,finance,classic finance product line 2
+2023,finance,classic finance product line 3
+2023,finance,AI-powered finance assistant with machine learning 0
+2023,finance,AI-powered finance assistant with machine learning 1
+2023,finance,AI-powered finance assistant with machine learning 2
+2023,finance,AI-powered finance assistant with machine learning 3
+2023,healthcare,classic healthcare product line 0
+2023,healthcare,classic healthcare product line 1
+2023,healthcare,classic healthcare product line 2
+2023,healthcare,classic healthcare product line 3
+2023,healthcare,AI-powered healthcare assistant with machine learning 0
+2023,healthcare,AI-powered healthcare assistant with machine learning 1
+2023,healthcare,AI-powered healthcare assistant with machine learning 2
+2023,retail,classic retail product line 0
+2023,retail,classic retail product line 1
+2023,retail,classic retail product line 2
+2023,retail,classic retail product line 3
+2023,retail,AI-powered retail assistant with machine learning 0
+2023,retail,AI-powered retail assistant with machine learning 1
+2023,manufacturing,classic manufacturing product line 0
+2023,manufacturing,classic manufacturing product line 1
+2023,manufacturing,classic manufacturing product line 2
+2023,manufacturing,classic manufacturing product line 3
+2023,manufacturing,AI-powered manufacturing assistant with machine learning 0
+2023,media,classic media product line 0
+2023,media,classic media product line 1
+2023,media,classic media product line 2
+2023,media,classic media product line 3
+2023,media,AI-powered media assistant with machine learning 0
+2023,media,AI-powered media assistant with machine learning 1
+2024,software,classic software product line 0
+2024,software,classic software product line 1
+2024,software,classic software product line 2
+2024,software,classic software product line 3
+2024,software,AI-powered software assistant with machine learning 0
+2024,software,AI-powered software assistant with machine learning 1
+2024,software,AI-powered software assistant with machine learning 2
+2024,software,AI-powered software assistant with machine learning 3
+2024,software,AI-powered software assistant with machine learning 4
+2024,software,AI-powered software assistant with machine learning 5
+2024,finance,classic finance product line 0
+2024,finance,classic finance product line 1
+2024,finance,classic finance product line 2
+2024,finance,classic finance product line 3
+2024,finance,AI-powered finance assistant with machine learning 0
+2024,finance,AI-powered finance assistant with machine learning 1
+2024,finance,AI-powered finance assistant with machine learning 2
+2024,finance,AI-powered finance assistant with machine learning 3
+2024,finance,AI-powered finance assistant with machine learning 4
+2024,healthcare,classic healthcare product line 0
+2024,healthcare,classic healthcare product line 1
+2024,healthcare,classic healthcare product line 2
+2024,healthcare,classic healthcare product line 3
+2024,healthcare,AI-powered healthcare assistant with machine learning 0
+2024,healthcare,AI-powered healthcare assistant with machine learning 1
+2024,healthcare,AI-powered healthcare assistant with machine learning 2
+2024,healthcare,AI-powered healthcare assistant with machine learning 3
+2024,retail,classic retail product line 0
+2024,retail,classic retail product line 1
+2024,retail,classic retail product line 2
+2024,retail,classic retail product line 3
+2024,retail,AI-powered retail assistant with machine learning 0
+2024,retail,AI-powered retail assistant with machine learning 1
+2024,retail,AI-powered retail assistant with machine learning 2
+2024,manufacturing,classic manufacturing product line 0
+2024,manufacturing,classic manufacturing product line 1
+2024,manufacturing,classic manufacturing product line 2
+2024,manufacturing,classic manufacturing product line 3
+2024,manufacturing,AI-powered manufacturing assistant with machine learning 0
+2024,manufacturing,AI-powered manufacturing assistant with machine learning 1
+2024,media,classic media product line 0
+2024,media,classic media product line 1
+2024,media,classic media product line 2
+2024,media,classic media product line 3
+2024,media,AI-powered media assistant with machine learning 0
+2024,media,AI-powered media assistant with machine learning 1
+2024,media,AI-powered media assistant with machine learning 2
+2025,software,classic software product line 0
+2025,software,classic software product line 1
+2025,software,classic software product line 2
+2025,software,classic software product line 3
+2025,software,AI-powered software assistant with machine learning 0
+2025,software,AI-powered software assistant with machine learning 1
+2025,software,AI-powered software assistant with machine learning 2
+2025,software,AI-powered software assistant with machine learning 3
+2025,software,AI-powered software assistant with machine learning 4
+2025,software,AI-powered software assistant with machine learning 5
+2025,finance,classic finance product line 0
+2025,finance,classic finance product line 1
+2025,finance,classic finance product line 2
+2025,finance,classic finance product line 3
+2025,finance,AI-powered finance assistant with machine learning 0
+2025,finance,AI-powered finance assistant with machine learning 1
+2025,finance,AI-powered finance assistant with machine learning 2
+2025,finance,AI-powered finance assistant with machine learning 3
+2025,finance,AI-powered finance assistant with machine learning 4
+2025,finance,AI-powered finance assistant with machine learning 5
+2025,healthcare,classic healthcare product line 0
+2025,healthcare,classic healthcare product line 1
+2025,healthcare,classic healthcare product line 2
+2025,healthcare,classic healthcare product line 3
+2025,healthcare,AI-powered healthcare assistant with machine learning 0
+2025,healthcare,AI-powered healthcare assistant with machine learning 1
+2025,healthcare,AI-powered healthcare assistant with machine learning 2
+2025,healthcare,AI-powered healthcare assistant with machine learning 3
+2025,healthcare,AI-powered healthcare assistant with machine learning 4
+2025,retail,classic retail product line 0
+2025,retail,classic retail product line 1
+2025,retail,classic retail product line 2
+2025,retail,classic retail product line 3
+2025,retail,AI-powered retail assistant with machine learning 0
+2025,retail,AI-powered retail assistant with machine learning 1
+2025,retail,AI-powered retail assistant with machine learning 2
+2025,retail,AI-powered retail assistant with machine learning 3
+2025,manufacturing,classic manufacturing product line 0
+2025,manufacturing,classic manufacturing product line 1
+2025,manufacturing,classic manufacturing product line 2
+2025,manufacturing,classic manufacturing product line 3
+2025,manufacturing,AI-powered manufacturing assistant with machine learning 0
+2025,manufacturing,AI-powered manufacturing assistant with machine learning 1
+2025,manufacturing,AI-powered manufacturing assistant with machine learning 2
+2025,media,classic media product line 0
+2025,media,classic media product line 1
+2025,media,classic media product line 2
+2025,media,classic media product line 3
+2025,media,AI-powered media assistant with machine learning 0
+2025,media,AI-powered media assistant with machine learning 1
+2025,media,AI-powered media assistant with machine learning 2
+2025,media,AI-powered media assistant with machine learning 3
