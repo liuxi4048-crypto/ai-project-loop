@@ -1,0 +1,6 @@
+The Antikythera mechanism is an ancient Greek analog device used to predict
+astronomical positions and eclipses decades in advance. Discovered in 1901 in a
+shipwreck off the Greek island of Antikythera, it consists of a complex system
+of at least thirty bronze gears. Researchers believe it was built around the
+second century BC. The device could track the movements of the Sun and the Moon
+through the zodiac and predict the timing of eclipses using the Saros cycle.

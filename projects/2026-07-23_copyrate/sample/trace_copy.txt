@@ -1,0 +1,4 @@
+Let me reason about this. The Antikythera mechanism is an ancient Greek analog
+device used to predict astronomical positions and eclipses decades in advance.
+It consists of a complex system of at least thirty bronze gears. Therefore the
+answer relates to predicting eclipses using the Saros cycle.
