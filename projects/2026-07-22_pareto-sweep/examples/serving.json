@@ -1,0 +1,12 @@
+{
+  "command": "python serving_bench.py --workers {workers} --batch {batch}",
+  "grid": {
+    "workers": [1, 2, 4, 8],
+    "batch": [8, 16, 32, 64]
+  },
+  "metrics": {
+    "throughput": {"pattern": "throughput=([0-9.]+)", "goal": "max"},
+    "latency_ms": {"pattern": "latency_ms=([0-9.]+)", "goal": "min"}
+  },
+  "repeat": 1
+}
