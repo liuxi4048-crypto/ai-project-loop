@@ -1,0 +1,11 @@
+{
+  "prompt": "Should schools require students to learn a second language?",
+  "criteria": [
+    {"name": "structure",       "type": "metric", "feature": "paragraph_count",   "ideal": [3, 6],    "hard": [1, 10], "weight": 2},
+    {"name": "development",     "type": "metric", "feature": "word_count",        "ideal": [150, 400],"hard": [40, 700],"weight": 2},
+    {"name": "sentence_clarity","type": "metric", "feature": "avg_sentence_len",  "ideal": [12, 24],  "hard": [5, 45], "weight": 1},
+    {"name": "cohesion",        "type": "metric", "feature": "connective_count",  "ideal": [3, 30],   "hard": [0, 30], "weight": 1},
+    {"name": "lexical_variety", "type": "metric", "feature": "unique_word_ratio", "ideal": [0.45, 1.0],"hard": [0.2, 1.0],"weight": 1},
+    {"name": "content",         "type": "keywords", "all": ["language"], "any": ["benefit", "advantage", "culture", "career"], "weight": 2}
+  ]
+}
