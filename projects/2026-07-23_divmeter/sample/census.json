@@ -1,0 +1,19 @@
+{
+  "prompt": "Name any single animal.",
+  "conditions": {
+    "free-form": [
+      "dog","dog","dog","dog","dog","dog","dog","dog","dog","dog",
+      "cat","cat","cat","cat","cat",
+      "lion","lion","lion",
+      "tiger","tiger",
+      "bear","wolf","fox","horse","owl"
+    ],
+    "json-mode": [
+      "dog","dog","dog","dog","dog","dog","dog","dog","dog","dog",
+      "dog","dog","dog","dog","dog","dog",
+      "cat","cat","cat","cat","cat",
+      "lion","lion",
+      "tiger","bear"
+    ]
+  }
+}
