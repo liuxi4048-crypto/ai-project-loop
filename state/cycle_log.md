@@ -17,3 +17,4 @@
 | 13 | 2026-07-23 | optmem | 5 | 動作OK。MoE学習メモリを方式別計算、論文の50.6GB状態を再現しtiered割当で33.7%削減。SkewAdam論文 |
 | 14 | 2026-07-23 | cot2qa | 5 | 動作OK。推論チェーンを依存グラフ化し中間QAへ変換、頻度フィルタで偽連結除去し真の依存5本を抽出。DAIS論文 |
 | 15 | 2026-07-23 | splitaudit | 5 | 動作OK。random/grouped/temporal分割の漏洩監査、randomの両軸100%漏洩vs各honest分割0%を可視化。不正検知汎化ベンチ論文 |
+| 16 | 2026-07-23 | ireval | 5 | 動作OK。BM25検索+recall@k/MRR/nDCG@k、複数関連クエリでrecall@1=0.857→recall@2=1.0の挙動を再現。AILQA論文 |

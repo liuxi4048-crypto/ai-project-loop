@@ -1,0 +1,19 @@
+{
+  "documents": [
+    {"id": "contract",  "text": "A contract is a legally binding agreement between parties. It requires offer, acceptance, and consideration. Breach of contract may lead to damages or specific performance."},
+    {"id": "tort",      "text": "Tort law covers civil wrongs such as negligence. A plaintiff must show duty of care, breach, causation, and damages to recover compensation for injury."},
+    {"id": "ip",        "text": "Intellectual property law protects creations of the mind. Copyright covers original works, patents protect inventions, and trademarks protect brand identity."},
+    {"id": "criminal",  "text": "Criminal law defines offenses against the state, such as theft and assault. Conviction requires proof beyond a reasonable doubt and may result in imprisonment."},
+    {"id": "tax",       "text": "Tax law governs how individuals and companies pay income tax and file returns. Deductions reduce taxable income, and penalties apply to late filing."},
+    {"id": "property",  "text": "Property law deals with ownership and possession of land and goods. A deed transfers title, and easements grant limited use of another's land."}
+  ],
+  "queries": [
+    {"text": "What is required to form a binding contract?", "relevant": ["contract"]},
+    {"text": "How can a plaintiff recover damages for negligence?", "relevant": ["tort"]},
+    {"text": "What protects an invention or a brand name?", "relevant": ["ip"]},
+    {"text": "How are taxable income and deductions handled when filing returns?", "relevant": ["tax"]},
+    {"text": "How is ownership of land transferred?", "relevant": ["property"]},
+    {"text": "what remedies and damages are available for a breach or injury", "relevant": ["contract", "tort"]},
+    {"text": "penalties for late filing versus imprisonment for offenses", "relevant": ["tax", "criminal"]}
+  ]
+}
