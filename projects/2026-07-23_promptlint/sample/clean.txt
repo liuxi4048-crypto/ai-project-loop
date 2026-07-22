@@ -1,0 +1,10 @@
+# Task
+
+Summarize the article below in three bullet points.
+
+- Keep each bullet under 20 words.
+- Use plain language.
+- Do not add information that is not in the article.
+
+Article:
+The city council approved a new bike-lane network on Tuesday. Construction begins in spring and is expected to finish within a year.
