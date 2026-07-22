@@ -1,0 +1,10 @@
+{
+  "gold": "B",
+  "paths": [
+    {"id": "path-1", "answer": "B"},
+    {"id": "path-2", "answer": "B"},
+    {"id": "path-3", "answer": "B"},
+    {"id": "path-4", "answer": "A"},
+    {"id": "path-5", "answer": "C"}
+  ]
+}
