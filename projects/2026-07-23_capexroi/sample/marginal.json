@@ -1,0 +1,10 @@
+{
+  "_comment": "回収の厳しいシナリオ: 高capex・低成長・薄利。単位=十億ドル(概算)。",
+  "capex": 20.0,
+  "life_years": 5,
+  "annual_revenue": 3.0,
+  "revenue_growth": 0.05,
+  "gross_margin": 0.45,
+  "annual_opex": 0.6,
+  "discount_rate": 0.12
+}
