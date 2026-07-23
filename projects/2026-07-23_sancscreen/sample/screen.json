@@ -1,0 +1,18 @@
+{
+  "_comment": "架空の禁輸ウォッチリストと取引相手名の照合デモ(実在の制裁情報ではない)。",
+  "match": 0.8,
+  "possible": 0.45,
+  "watchlist": [
+    {"name": "Redstar Semiconductor", "aliases": ["Redstar Semi", "RSS Microelectronics"], "program": "Export-Control-EC01"},
+    {"name": "Aurora AI Labs", "aliases": ["Aurora Artificial Intelligence"], "program": "Sanctions-SN22"},
+    {"name": "Blue Harbor Robotics", "aliases": ["BlueHarbor"], "program": "Sanctions-SN22"}
+  ],
+  "queries": [
+    "Redstar Semiconductor Co., Ltd.",
+    "RSS Microelectronics Group",
+    "Aurora Artificial Intelligence Limited",
+    "Redstar Research Institute",
+    "Acme Cloud Services",
+    "Blue Harbor Robotics Holdings"
+  ]
+}
