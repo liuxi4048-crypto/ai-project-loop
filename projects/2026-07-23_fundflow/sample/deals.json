@@ -1,0 +1,11 @@
+{
+  "_comment": "アーカイブの投資・資金調達ニュースのクラスタから編纂(金額は概算)。横断テーマのフォールバック。",
+  "events": [
+    {"date": "2026-07-23", "investor": "AMD",       "recipient": "Anthropic",           "amount_usd": 5000000000},
+    {"date": "2026-07-23", "investor": "a16z",      "recipient": "Kalanick Robotics",   "amount_usd": 1700000000},
+    {"date": "2026-07-22", "investor": "Samsung",   "recipient": "Mistral",             "amount_usd": 1100000000},
+    {"date": "2026-07-23", "investor": "seed round","recipient": "Yope",                "amount_usd": 12300000},
+    {"date": "2026-07-23", "investor": "NVIDIA",    "recipient": "German AI startup",   "amount_usd": 300000000},
+    {"date": "2026-07-23", "investor": "Menlo Ventures", "recipient": "Anthropic",      "amount_usd": 750000000}
+  ]
+}
